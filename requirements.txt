@@ -1,19 +1,4 @@
-# Streamlit 앱 관련
-streamlit
-streamlit-vtkjs
-streamlit-components
-
-# 3D 모델 렌더링 및 처리
-pyvista
-plotly
-
-# 이미지 및 전처리
+streamlit==1.34.0
 Pillow
-scikit-image
-opencv-python
-
-# GET3D 관련 (필수)
-torch
 numpy
-
-# Three.js 뷰어는 CDN으로 불러오니 설치 필요 없음
+plotly
